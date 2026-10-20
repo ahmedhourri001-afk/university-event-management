@@ -50,5 +50,4 @@ target/
 .env
 k8s/
 infra/
-Jenkinsfile
 *.md
